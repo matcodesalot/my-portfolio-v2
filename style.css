@@ -291,6 +291,7 @@ section {
     height: auto;
     width: 50%;
     border-radius: 5rem;
+    transform: scaleX(-1);
 }
 
 .about-content {
